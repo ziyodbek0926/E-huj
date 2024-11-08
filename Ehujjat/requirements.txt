@@ -1,0 +1,6 @@
+asgiref==3.8.1
+Django==5.1.2
+django-admin-soft-dashboard==1.0.14
+et_xmlfile==2.0.0
+openpyxl==3.1.5
+sqlparse==0.5.1
