@@ -15,13 +15,12 @@ python -m venv venv
 
 * ***Windows:***
 
-
 ```bash
-source venv/bin/activate
+source venv/Scripts/activate
 ```
 * ***macOS/Linux:***
 ```bash
-venv\\Scripts\\activate
+venv/bin/activate
 ```
 # Activate the virtual environment
 * ***Install the required dependencies using pip: ***
@@ -48,4 +47,8 @@ python manage.py runserver
 
 ```bash
 deactivate
+```
+# run this file through another terminal
+```bash
+python bot.py
 ```
